@@ -8,7 +8,7 @@ Inasive ductal carcinoma (IDC) is - with ~ 80 % of cases - one of the most commo
 
 ## Our goal
 
-As we started with this analysis we asked ourselves if we would be able to improve the results that were presented 2014 in the paper [Automatic detection of invasive ductal carcinoma in whole slide images with Convolutional Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.4294&rep=rep1&type=pdf).Many years have passed by since then and it's very likely that all methods used in the paper have already been changed, improved and that new research has already been done.
+As I started with this analysis I asked if I would be able to improve the results that were presented 2014 in the paper [Automatic detection of invasive ductal carcinoma in whole slide images with Convolutional Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.725.4294&rep=rep1&type=pdf).Many years have passed by since then and it's very likely that all methods used in the paper have already been changed, improved and that new research has already been done.
 
 
 ## Methods presented in the paper
